@@ -1,1 +1,1 @@
-# varieties-the-star
+# Stocl Helper
